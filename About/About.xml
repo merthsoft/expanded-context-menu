@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Expanded Context Menus</name>
+	<author>Shaun McFall</author>
+	<url></url>
+	<targetVersion>0.18.0</targetVersion>
+	<description> Adds expanded context menus when you right click on an object. Works with AllowTool's right-click menus, but you should disable the watermark for AllowTool in the mod options.
+    
+Requires HugsLib.
+  </description>
+</ModMetaData>
